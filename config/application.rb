@@ -1,4 +1,4 @@
+require File.expand_path('../../api/application', __FILE__)
+
 module Meetup
-  def self.load!
-  end
 end
