@@ -10,8 +10,9 @@ GIT
       thor (= 0.19.1)
 
 GIT
-  remote: git://github.com/lotus/model.git
-  revision: 56eb7afb9e0129cf38cde909ab4a125442f0330a
+  remote: git://github.com/taoza/model.git
+  revision: 8a08a2de2ebe937265d7d4b7de54a26208afcc65
+  branch: simplify-framework-initializaiton
   specs:
     lotus-model (0.1.2)
       lotus-utils (~> 0.2)
